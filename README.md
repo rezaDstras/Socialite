@@ -8,6 +8,6 @@ Using GITHUB & GOOGLE platform in this example.
 
 Using :
 - [Service Container](https://laravel.com/docs/8.x/container).
-- Socialite Package](https://laravel.com/docs/8.x/socialite).
+- [Socialite Package](https://laravel.com/docs/8.x/socialite).
 - AUTH Interface 
 - ServiceProvider.
