@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmadewithlaravel.com%2Fsocialite&psig=AOvVaw30mE5e1Jp83BvSP-jLCP7S&ust=1629398313427000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDCzfObu_ICFQAAAAAdAAAAABAD" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
