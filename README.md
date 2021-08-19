@@ -11,3 +11,12 @@ Using :
 - [Socialite Package](https://laravel.com/docs/8.x/socialite).
 - AUTH Interface 
 - ServiceProvider.
+
+
+## VIEW COMPOSER
+
+Using 3 options of view composer for crating posts and channels views with partial
+- [Every Single View]
+- [Granular View]
+- [Copmoser Class]
+
