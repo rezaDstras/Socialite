@@ -27,3 +27,5 @@ Route::get('/auth/{name}/callback', [\App\Http\Controllers\Auth\LoginController:
 
 //Route::get('/auth/google/redirect', [\App\Http\Controllers\Auth\LoginController::class,'googleRedirectToProvider']);
 //Route::get('/auth/google/callback', [\App\Http\Controllers\Auth\LoginController::class,'googleHandleProviderCallback']);
+Route::get('/channels', [App\Http\Controllers\ChannelController::class, 'index']);
+Route::get('/create/post', [App\Http\Controllers\PostController::class, 'create']);
