@@ -16,7 +16,7 @@ Using :
 ## VIEW COMPOSER
 
 Using 3 options of view composer for crating posts and channels views with partial
--[Every Single View]
--[Granular View]
--[Copmoser Class]
+- [Every Single View]
+- [Granular View]
+- [Copmoser Class]
 
